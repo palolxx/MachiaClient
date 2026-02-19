@@ -1,9 +1,9 @@
 {
   "totalUsers": 1,
   "totalSessions": 1,
-  "totalPlaytime": 0,
+  "totalPlaytime": 13,
   "activeNow": 1,
-  "lastUpdate": 1771498821818,
+  "lastUpdate": 1771499012755,
   "javaVersion": "1.8.0_441",
   "osName": "Windows 11",
   "osStats": {
