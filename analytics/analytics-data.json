@@ -1,9 +1,9 @@
 {
-  "totalUsers": 0,
-  "totalSessions": 2,
+  "totalUsers": 1,
+  "totalSessions": 1,
   "totalPlaytime": 0,
   "activeNow": 1,
-  "lastUpdate": 1771535548611,
+  "lastUpdate": 1771535712450,
   "javaVersion": "1.8.0_51",
   "osName": "Windows 8.1",
   "osStats": {
