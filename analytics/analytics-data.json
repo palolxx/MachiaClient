@@ -1,9 +1,9 @@
 {
   "totalUsers": 0,
   "totalSessions": 2,
-  "totalPlaytime": 1,
+  "totalPlaytime": 10,
   "activeNow": 1,
-  "lastUpdate": 1771573023289,
+  "lastUpdate": 1771573169971,
   "javaVersion": "1.8.0_471",
   "osName": "Windows 7",
   "osStats": {
