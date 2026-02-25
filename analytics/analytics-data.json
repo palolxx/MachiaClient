@@ -1,20 +1,20 @@
 {
-  "totalUsers": 1,
-  "totalSessions": 1,
-  "totalPlaytime": 1,
+  "totalUsers": 0,
+  "totalSessions": 111,
+  "totalPlaytime": 1316,
   "activeNow": 1,
-  "lastUpdate": 1771749101523,
-  "javaVersion": "1.8.0_162",
-  "osName": "Windows 10",
+  "lastUpdate": 1772015243112,
+  "javaVersion": "1.8.0_481",
+  "osName": "Windows 11",
   "osStats": {
-    "Windows 10": 1
+    "Windows 11": 1
   },
   "javaStats": {
-    "1.8.0_162": 1
+    "1.8.0_481": 1
   },
   "recentUsers": [
     {
-      "id": "user_9623f6dea675",
+      "id": "user_03bbac8459ff",
       "lastSeen": "Just now",
       "active": true
     }
