@@ -1,9 +1,9 @@
 {
-  "totalUsers": 1,
-  "totalSessions": 1,
+  "totalUsers": 0,
+  "totalSessions": 2,
   "totalPlaytime": 8,
   "activeNow": 1,
-  "lastUpdate": 1776893023454,
+  "lastUpdate": 1776893439841,
   "javaVersion": "1.8.0_482",
   "osName": "Linux",
   "osStats": {
